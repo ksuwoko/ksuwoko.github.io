@@ -1,6 +1,6 @@
 **Wekcome to my A&O SCI C111 Final Project! I'm Kathleen Suwoko!** 
 
-<img align="right" width="220" height="220" src="/assets/IMG/theater.png">
+<img align="right" width="220" height="220" src="theater.png">
 
 [Click here to see my dataset that was used to provide information for the machine learning product I made!](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
